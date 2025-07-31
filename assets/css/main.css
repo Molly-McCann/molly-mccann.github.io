@@ -2988,7 +2988,7 @@ input, select, textarea {
 		max-width: 80%;
 		height: 100%;
 		-webkit-overflow-scrolling: touch;
-		background: #585858;
+		background: #bebebe;
 		color: #ffffff;
 		cursor: default;
 		visibility: hidden;
@@ -3027,7 +3027,7 @@ input, select, textarea {
 						padding: 1em 0;
 						line-height: 1.5;
 						border: 0;
-						color: inherit;
+						color: #1c4f8f;
 					}
 
 					#menu > .inner > ul > li:first-child {
