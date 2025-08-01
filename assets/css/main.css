@@ -3095,6 +3095,11 @@ input, select, textarea {
 				opacity: 0;
 			}
 
+			#header .toggle:hover {
+  background-color: #1c4f8f; /* Or your desired hover color */
+}
+
+
 		@media screen and (max-width: 736px) {
 
 			#menu {
