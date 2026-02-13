@@ -1,2 +1,2 @@
-# Molly-Test.github.io
-Test repo for new format of website
+# Molly-McCann.github.io
+Repo for new format of website
